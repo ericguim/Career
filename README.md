@@ -1,7 +1,8 @@
 # Career
 
 This is a learning repository.
-I want to improve my Hard Skills and get close to some technologies which are commonly used in Physics research.will help me become a Physicist in the future.
+I'm currently working as a software engineer, but I wish working with physics in the future.
+So, I decided to create this repository to improve my Hard Skills and get close to some technologies and techniques which are commonly used in Physics research.
 
 In this repo i'll add:
 
