@@ -36,7 +36,8 @@ In this repo i'll add:
 ### /gpu/
 
 ``` sh
-In the first momment, I’ll rewrite some of the cpp challenges, but to run on the GPU
+In the first momment, 
+I’ll rewrite some of the cpp challenges, but to run on the GPU
 ```
 - [ ] **/gpu/cpp/minus-plus-problem/**
   > Given an array of integers, calculate the fractions of its elements that are positive, negative, and are zeros. Print the decimal value of each fraction on a new line.
