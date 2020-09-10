@@ -21,8 +21,8 @@ int main(int argc, char* argv[]){
   int array_size = argc-1;
   int array[array_size];
 
-  for (int i = 1; i < array_size; i++) {
-    array[i] = atoi(argv[i]);
+  for (int i = 0; i < array_size; i++) {
+    array[i] = atoi(argv[i+1]);
   }
 
   int positives_count=0, negatives_count=0, zeroes_count=0;
